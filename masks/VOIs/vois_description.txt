@@ -1,0 +1,17 @@
+Coordinates for Hand-left; Hand-right; Foot-left; Foot-right; Lips-left; Lips-right; Tongue-left; Tongue-right were obtained from:
+Weiss et al., 2013 (https://doi.org/10.1016/j.neuroimage.2012.10.046)
+
+
+Masks for subcortical structures were obtained from the Multi-contrast PD25 atlas:
+Refernces:
+Y. Xiao, V. Fonov, S. Beriault, F.A. Subaie, M.M. Chakravarty, A.F. Sadikot, G. Bruce Pike, and D. Louis Collins, “A dataset of multi-contrast population-averaged brain MRI atlases of a Parkinson’s disease cohort,” accepted in Data in Brief, 2017.
+
+Y. Xiao, V. Fonov, S. Beriault, F.A. Subaie, M.M. Chakravarty, A.F. Sadikot, G. Bruce Pike, and D. Louis Collins, “Multi-contrast unbiased MRI atlas of a Parkinson’s disease population,” International Journal of Computer-Assisted Radiology and Surgery, vol. 10(3), pp. 329-341, 2015.
+
+Y. Xiao, S. Beriault, G. Bruce Pike, and D. Louis Collins, “Multicontrast multiecho FLASH MRI for targeting the subthalamic nucleus,” Magnetic Resonance Imaging, vol. 30, pp. 627-640, 2012.
+
+
+The coordinates for subctortical structures were calculated as the center of gravity using the MultiState12 Toolbox (https://jugit.fz-juelich.de/inm7/dataplatforms/multistate12).
+
+
+
